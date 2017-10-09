@@ -1,0 +1,601 @@
+afraid - When someone is afraid, they feel fear. The woman was afraid of what she saw. 
+agree - To agree is to say "yes" or to think the same way. A:The food is very good in that restaurant. B:I agree with you. 
+angry - When someone is angry, they may want to speak loudly or fight. She didn't do her homework, so her father is angry. 
+arrive - To arrive is to get to or reach some place. The bus always arrives at the corner of my street at 4:00. 
+attack - To attack is to try to fight or to hurt. The man with the sword attacked the other man first. 
+bottom - The bottom is the lowest part. The bottom of my shoe has a hole in it. 
+clever - When someone is clever, they can solve a hard puzzle or problem. The clever boy thought of a good idea. 
+cruel - When someone is cruel, they do bad things to hurt others. The cruel man yelled at his sister. 
+finally - If something happens finally, it happens after a longtime or at the end. He finally crossed the finish line after five hours of running. 
+hide - To hide is to try not to let others see you. The other children will hide while you count to 100. 
+hunt - To hunt is to look for or search for an animal to kill. Long ago, people hunted with bows and arrows. 
+lot - A lot means a large number or amount of people, animals, things, etc. There are a lot of apples in the basket. 
+middle - The middle of something is the center or halfway point. The Canadian flag has a maple leaf in the middle of it. 
+moment - A moment is a second or a very short time. I was only a few moments late for the meeting. 
+pleased - When someone is pleased, they are happy. She was pleased with the phone call she received. 
+promise - To promise is to say you will do something for sure. He promised to return my key by tomorrow. 
+reply - To reply is to give an answer or say back to someone. She asked him what time his meeting was. He replied, "at three."
+safe - When a person issafe, they are not in danger. Put on your seat belt in the car to be safe. 
+trick - A trick is something you do to fool another person. His card trick really surprised us. 
+well - You use well to say that something was done in a good way. The couple can dance quite well. 
+adventure - An adventure is a fun or exciting thing that you do. Riding in the rough water was an adventure. 
+approach - To approach something means to move close to it. The boy approached his school. 
+carefully - Carefully means with great attention, especially to detail or safety. The baby carefully climbed down the stairs. 
+chemical - A chemical is something that scientists use in chemistry. The scientist mixed the chemicals. 
+create - To create means to make something new. She created an igloo from blocks of snow. 
+evil - Evil describes something or someone bad or cruel, not good. The evil figure scared us all. 
+experiment - An experiment is a test that you do to see what will happen. The student did an experiment in science class. 
+kill - To kill someone or something is to make them die. I killed the fly with a fly swatter. 
+laboratory - A laboratory is a room where a scientist works. My mother works in a laboratory. 
+laugh - Laugh is the sound made when someone is happy or a funny thing occursThe sound of their laugh filled the room. 
+loud - If a sound is [laud] adj. loud, it is strong and very easy to hear. The man's voice was so loud that we all could hear him. 
+nervous - When a person is nervous, they think something bad will happen. The boy became nervous when he heard the news. 
+noise - A noise is an unpleasant sound. The crying baby made a loud noise. 
+project - A project is a type of work that you do for school ora job. His afternoon work project was to paint the room green. 
+scare - To scare someone is to make them feel afraid. My uncle was scared by what he saw in the room. 
+secret - A secret is something that you do not tell other people. The two boys were sharing a secret. 
+shout - To shout is to say something loudly. My boss shouted at me because I was late for work. 
+smell - To smell something means to use your nose to sense it. The two friends smelled the flower. 
+terrible - If something is terrible, it is very bad. The way he treated his classmate was terrible. 
+worse - If something is worse, it is of poorer quality than another thing. Business was worse this month than last month. 
+alien - An alien is a creature from a different world. The alien came in peace. 
+among - If you are among certain things, they are all around you. There was a red apple among the green ones. 
+chart - A chart is a list of information. We used a chart to see how we had improved. 
+cloud - A cloud is a group of water drops in the sky. The sky was filled with white clouds. 
+comprehend - To comprehend something is to understand it. Henry could not comprehend the message. 
+describe - To describe is to say or write what someone or something is like. They described their tree as colorful with gold ribbon and a star. 
+ever - Ever means at any time. Going skiing last winter was the most fun I've ever had. 
+fail - To fail means you do not succeed in what you try to do. Since he failed to get the job, he was sad. 
+friendly - Friendly is behaving in a pleasant, kind way toward someone. The friendly animals came up to the girl. 
+grade - A grade is a score or mark given to someone's work. I managed to get good grades on my report card. 
+instead - Instead means in place of. He ate the carrot instead of the ice cream. 
+library - A library is a place where you go to read books. The library at school is full of books. 
+planet - A planet is a large round thing in space. Saturn is the planet with the ring around it. 
+report - A report is something students write for school. Karen had trouble writing her report. 
+several - Several is more than two but not many. He had to read several books for class. 
+solve - To solve something is to find an answer to it. All the students could easily solve the math problem. 
+suddenly - If something happens suddenly, it happens quickly and unexpectedly. I was suddenly surprised by the cake my friends brought me. 
+suppose - To suppose is to guess. I suppose I should go home now. 
+universe - The universe is the known or supposed objects in space. The universe is so large that it cannot be measured. 
+view - Toview is to look at something. Michael likes to view himself in the mirror. 
+appropriate - When a thing is appropriate, it is right or normal. It's appropriate to wear a suit when you go to the office. 
+avoid - To avoid something is to stay away from it. Avoid the broken bottle on the floor. 
+behave - To behave is to act in a particular way, especially to be good. She always behaves well when her father is around. 
+calm - When someone is calm, they do not get excited or upset. A nice warm bath makes me feel so calm. 
+concern - Concern is a feeling of worry. I was filled with concern after reading the newspaper. 
+content - To be content is to be happy and not want more. The baby looked very content sitting on the floor. 
+expect - If you expect something to happen, you believe it will happen. I expect the bus to be here very soon. 
+frequently - When something happens frequently, it happens often. We meetfrequently, either at the beginning or ending of the week. 
+habit - A habit is a thing that you do often. Smoking is a bad habit that can kill you. 
+instruct - To instruct is to teach. My teacher instructs us in several subjects. 
+issue - An issue is an important topic. The men spoke about issues that were important to the people. 
+none - None means not any of someone or something. He spent all his money. There is none left. 
+patient - If a person is patient, they don't become angry or upset easily. I had to be patient and wait until 5 o'clock to leave. 
+positive - If something is positive, it is good. She has a positive future ahead of her after finishing college. 
+punish - To punish means to make someone suffer for breaking the rules or laws. To punish me, my teacher had me stand in the corner. 
+represent - To represent is to speak or act for a person or group. My lawyer will represent me in court. 
+shake - To shake is to move back and forth or up and down quickly. When people shake hands, it usually means they agree. 
+spread - To spread is to move quickly to more places. I like to spread butter on my toast. 
+stroll - To stroll means to walk slowly and calmly. My dog and I strolled through the park today. 
+village - Avillage is a very small town. There are only a few houses in my village. 
+aware - If you are aware of something, you know about it. 1I was not aware of the ringing phone. 
+badly - Badly means in a severe or harmful way. He hurt his arm badly playing with friends. 
+belong - If something belongs to you, you own it. The blue suit belongs to Paul
+continue - To continue something is to keep doing it. She stood under her umbrella as the rain continued to fall. 
+error - An error is something you do wrong. I made an error on my report, so my boss was angry. 
+experience - An experience is something you have seen or done. Rock climbing was a fun experience. 
+field - A field is a big area of land. The field of flowers looked so pretty. 
+hurt - To hurt is to do something that makes you feel pain. She hurt her leg falling down the stairs. 
+judgment - Judgment is the ability to form opinions or decisions. It's goodjudgment to recycle your aluminum cans. 
+likely - If something likely happens, it will probably happen. I will likely stay at home and watch TV tonight. 
+normal - If something is normal, it is not strange nor surprising to you. It is normal for me to bathe every night. 
+rare - If something is rare, you do not see it very often. It is rare for him to miss his flight. 
+relax - To relax is to rest. The frog relaxed in the warm sun. 
+request - To request something is to ask for it. The little girl requested a special gift from Santa Claus. 
+reside - To reside means to live somewhere permanently or for a long time. My brother and his family reside in a lovely house on the beach. 
+result - A result is something that happens because of something else. Asa result of all the rain, the man had to climb on the roof. 
+roll - To roll is to move by turning over and over. You must roll the ball into the pins when you bowl. 
+since - Since is used to talk about a past event still happening now. Since 1992, he has been driving that car. 
+visible - If something is visible, it can be seen. The moon and stars were visible in the night sky. 
+wild - If something is wild, it is found in nature. You should be careful around a fox, because it is a wild animal. 
+advantage - An advantage is something that helps you. Being tall is an advantage to a basketball player. 
+cause - To cause is to make something happen. The cold weather caused her to get sick. 
+choice - A choice is the act or possibility of picking something. I had my choice of five doors to open. 
+community - A community is a group of people who live together. The kids from my community usually play together. 
+dead - To be dead is to not be alive. A dead person is usually buried in the ground. 
+distance - The distance between two things is how far it is between them. The distance between the Earth and the Moon is 384,400 kilometers. 
+escape - To escape is to run away from something bad. The butterfly could not escape from the cage. 
+face - If you face a problem, you deal with it. My sister and I have to find a better way to face our differences. 
+follow - Tofollow means to go behind someone and go where they go. The little boy followed his mother home. 
+fright - Fright is the feeling of being scared. She was filled with fright. 
+ghost - A ghost is the spirit of a dead person. Many people are afraid of ghosts. 
+individual - An individual is one person. Only one individual could win the bicycle race. 
+pet - A pet is an animal that lives with people. Out of all mypets, the dog is my favorite. 
+reach - To reach means to arrive at a place. I was happy to finally reach my destination. 
+return - To return is to go back to a place. I was happy to return home to my mom after school. 
+survive - To survive is to stay alive. My dog survived her fall into the water. 
+upset - To be upset is to be unhappy about something. She was upset because she broke her toy. 
+voice - A voice is the sound a person makes when they talk or sing. He used a microphone, so everyone could hear his voice. 
+weather - The weather is the condition of the air:hot, rainy, windy, etc. The weather can be sunny, rainy, or cold. 
+wise - To be wise is to use experience and intelligence to make good choices. Many people believe that owls are very wise animals. 
+allow - To allow something to happen means to let it happen. Having a ticket will allow you to enter the show. 
+announce - To announce something is to make it known. He announced to everyone his new idea for the company. 
+beside - When someone or something is beside you, they are next to you. The two brothers stood beside each other. 
+challenge - A challenge is something difficult to complete. It was a challenge to climb to the top of the mountain. 
+claim - To claim means to say that something is true. He claimed to know why the country's laws were weak. 
+condition - The condition of someone or something is the state that they are in. The patient's condition was very good. 
+contribute - To contribute to something means to do something to make it successful We decided to contribute money to the new hospital. 
+difference - A difference is a way that something is not like other things. The biggest difference between the birds is the color of their feathers. 
+divide - To divide something is to make it into smaller parts. We divided the pizza. 
+expert - An expert is someone who is very good at doing something. The wizard was an expert at magic. 
+famous - If someone or something is famous, they are known to many people. The Eiffel Tower in Paris is very famous. 
+force - Force is a person's strength or power. He used all his force to try and open the door. 
+harm - Harm is hurt or problems caused to someone or something. A hot iron can cause great harm if you are not careful. 
+lay - To lay means to put or place in a horizontal or flat position. Don't lay your socks on the floor. 
+peace - Peace is a time without war. A white dove is a symbol for peace. 
+prince - A prince is the son of a king. The prince and the princess were married. 
+protect - To protect someone is to stop them from getting hurt. Firemen protect us from fires. 
+sense - Tosense something is to know about it without being told. I could sense that he was watching me. 
+sudden - When something is sudden, it happens very quickly. He felt a sudden pain in his chest. 
+therefore - Therefore means for this reason. He is fat. Therefore, he will go on a diet. 
+accept - To accept something that is offered is to take it. I accepted the girl's very nice gift. 
+arrange - To arrange things is to put them in the right place. Please arrange the bowling pins in order so we can play. 
+attend - To attend something is to go to it. My sister and I attend the same school. 
+balance - To balance something is to keep it from falling. We saw an elephant balance itself on a ball. 
+contrast - A contrast is the sharp difference between two things. The contrast between my parents is very noticeable. 
+encourage - To encourage someone is to make them want to do something. My football coach will encourage us when we are losing. 
+familiar - If someone or something is familiar to you, you know them well. The two friends were veryfamiliar with each other. 
+grab - To grab is to take a hold of someone or something suddenly. I grabbed a pear from the tree. 
+hang - To hang something is to keep it above the ground. I drew a picture of my family, and my mother hung it on the wall. 
+huge - If something is huge, it is very big. At work, my father drives a huge truck. 
+necessary - If something is necessary, you must do it. It is necessary to have a passport when you travel to a foreign country. 
+pattern - A pattern is a way in which something is done or organized. My pattern of brushing my teeth is the same as most people's. 
+propose - To propose something is to say that it should be done. Santa Claus proposed that I try to be a good boy all year. 
+purpose - A purpose is the reason that you do something. The purpose of exercising is to get into shape. 
+release - To release something is to stop holding it. She released the bird from her hands. 
+require - To require something is to say that it is necessary. We require teachers to have a university degree. 
+single - If something is single, then there is only one. I have a single key in my hand. 
+success - Success is doing something well that you choose to do. My daughter was a big success at school. 
+tear - Totear something means to pull it apart. It is easy to tear paper. 
+theory - Atheory is an idea about how something works. We talked about Einstein's theory of relativity in class. 
+against - To be against something is to be touching it or opposed to it. They both leaned against the wall. 
+beach - The beach is a sandy or rocky place by the ocean. The little girl built a sandcastle on the beach. 
+damage - To damage something is to break it. The car was damaged in the accident. 
+discover - To discover something is to find it for the first time. I discovered some new information in this book!
+emotion - An emotion is how you feel. Anger is a common emotion that we all feel. 
+fix - To fix something is to make it work. My dad has many tools to help him fix broken things. 
+frank - If you are frank, you are being very honest. The teacher had a frank discussion with her students. 
+identify - To identify something is to be able to name it. I used the file to identify his name. 
+island - An island is land in the middle of water. japan is a group ofislands. 
+ocean - The ocean is all of the salt water that surrounds land. The ocean can make powerful waves. 
+perhaps - Perhaps is used when you say that something could happen. Perhaps I will eat an apple for lunch. 
+pleasant - If something is pleasant, you enjoy it. The character had a pleasant look on its face. 
+prevent - To prevent something is to stop it from happening. The handcuffs prevented me from moving my hands. 
+rock - A rock is a hard thing in the dirt. I stacked rocks on top of one another. 
+save - To save something is to keep it from being hurt. I want to help save the world. 
+step - To step is to walk. Be careful where you step. 
+still - Still is used when you say that a situation keeps going on. They are still waiting in line to get tickets. 
+taste - A taste is the flavor something makes in your mouth. The taste of the fruit was sweet. 
+throw - To throw something is to use your hand to make it go through the air. The pitcher can throw the baseball very fast. 
+wave - Awave is a line of water that moves higher than the rest of the water. The water was filled with large blue waves. 
+benefit - A benefit is a good thing. Being able to fly is a good benefit to birds. 
+certain - If you are certain about something, you know it is true. I am certain that zebras have stripes. 
+chance - A chance is an opportunity to do something. I had a chance to see the Roman Coliseum last summer. 
+effect - An effect is a change made by something else. The medicine had a good effect on the boy
+essential - If something is essential, it is very important and necessary. It is essential to have oxygen when you scuba dive. 
+far - If something is far, it is not close. It's far going from the east coast to the west coast of America. 
+focus - To focus on something is to think about it and pay attention to it. My mom always helps me to focus on my school work. 
+function - The function of something is what it does. The function of a flashlight is to help you see in the dark. 
+grass - Grass is the green leaves that cover the ground. The grass looked so soft and green. 
+guard - To guard something is to take care of it. The police officer will guard us from any harm. 
+image - The image of something is a picture of it. The image of her eye was very clear. 
+immediate - If something is immediate, it happens quickly. An immediate response came from the pizza place. 
+primary - If something is primary, it is the most important thing. His primary thoughts are about money. 
+proud - If someone feels proud, they are happy about what they have done. She is proud of the picture she drew of her house. 
+remain - To remain somewhere is to stay there. My sister had to remain home since she was sick. 
+rest - To rest is to stop being active while the body gets back its strength. I rested on the couch after work. 
+separate - If two things are separate, they are not together. New York and Los Angeles are in two separate parts of America
+site - A site is a place. We found the perfect site for our picnic. 
+tail - A tail is a part of an animal's body, sticking out from its rear or back. Our dog wags its tail when it's happy. 
+trouble - Trouble is a problem ora difficulty. I have trouble working with my boss. 
+anymore - Trouble is a problem ora difficulty. I have trouble working with my boss. 
+asleep - When a person is asleep, they are not awake. The baby has been asleep for hours. 
+berry - A berry is a small round fruit that grows on certain plants and trees. The berry looked delicious. 
+collect - To collect things is to group them together all in one place. I collected shells when I was younger. 
+compete - To compete is to try to be better than someone. He will compete with very good athletes. 
+conversation - A conversation is a talk between people. There were two conversations going on at once. 
+creature - A creature is any living thing. The creature we saw today was either a dolphin or a porpoise. 
+decision - A decision is a choice. He made the wrong decision. 
+either - Either is used with "or" to say there are two or more possibilities. You can choose to be either white or black when you play chess. 
+forest - A forest is a place with lots of trees and animals. I love to go walking in the forest. 
+ground - The ground is the top part of the Earth that we walk on. The ground under our feet was dry and brown. 
+introduce - To introduce someone or something is to say who they are. I introduced myself to our newest co-worker today. 
+marry - To marry is to legally become husband and wife. Rose and Henry were married, and they lived happily. 
+prepare - To prepare is to get ready for something. I prepared my speech to the class. 
+sail - To sail is to move a boat on the water. I love to sail my boat on the lake. 
+serious - When something is serious, it is bad or unsafe. The accident was very serious. 
+spend - To spend is to use time doing something or being somewhere. I like to spend my free time fishing. 
+strange - When something is strange, it is not normal. Joe had a strange look on his face after he saw what happened. 
+truth - The truth is a fact or something that is right. He was telling the truth about seeing a large green snake. 
+wake - Towake is to not be sleeping anymore. He is always full of energy when he wakes in the morning. 
+alone - If someone is alone, they are not with another person. The boy wanted to be alone to think. 
+apartment - An apartment is a set of rooms in a building where people live. She has a nice apartment in the city. 
+article - An article is a story in a newspaper or magazine. Did you read the article in the newspaper about the soccer game?
+artist - An artist is a person who paints, draws, or makes sculptures. He went to Paris to become an artist. 
+attitude - Someone's attitude is the way they feel and think. John has a bad attitude. He's always angry. 
+compare - To compare means to say how two things are the same and different. If you compare cats and dogs, you'll see that they're both good pets,
+judge - Tojudge something is to say if it is good or bad. The boy was going tojudge how his mother's turkey tasted. 
+magazine - A magazine is a regular publication with news, stories, and articles. She likes to read fashion magazines. 
+material - A material is what is used to make something. Brick is a good material for building houses. 
+meal - A meal is a time when food is eaten like breakfast, lunch, or dinner. Breakfast is my favorite meal because I enjoy breakfast foods. 
+method - A method is the way to do something. One method to remember things is to tie a string around your finger. 
+neighbor - A neighbor is a person who lives near you. I like my neighbor because he's very friendly. 
+professional - If something is professional, it deals with work that uses special skills. If you want to be a pilot, you must have professional training. 
+profit - A profit is the extra money you make when you sell something. I made a small profit from selling my old clothes. 
+quality - The quality of something is how good it is. The quality of his car is very good. 
+shape - A shape is a simple form like a square or circle. The triangle is my favorite shape. 
+space - A space is an empty area. I don't have much space for things in my small house. 
+stair - Stairs are the things that are used to go up in a building. You can take the stairs to the second floor. 
+symbol - A symbol is a thing that stands for something else. This symbol tells us that we cannot smoke in this area. 
+thin - If someone or something is thin, they are not fat. The man was thin because he didn't eat much. 
+blood - Blood is the red liquid in your body. I cut my finger and got blood on my shirt. 
+burn - To burn something is to set it on fire. I burned some wood in the camp fire. 
+cell - A cell is a small room where a person is locked in. The jail cell was very small. 
+contain - To contain something is to have it inside. The mailbox contained a letter. 
+correct - To be correct is to be right. All of my answers on the test were correct
+crop - A crop is food that a farmer grows. Wheat is a crop that is made into bread. 
+demand - To demand something is to say strongly that you want it. The workers demanded to be paid more money. 
+equal - To be equal is to be the same. Both students are equal in age. 
+feed - To feed is to give food. Mother feeds my baby brother everyday. 
+hole - A hole is an opening in something. The man was going to jump into the hole in the ice. 
+increase - To increase something is to make it larger or more. They've increased the price of gas by 15 cents!
+lord - Long ago, a lord was a man in charge of a town. The lord of the town was not kind. 
+owe - To owe is to have to pay or give back something received from another. I owed him twenty dollars, so I paid him back. 
+position - A position is the way something is placed. How can you sit in that position?
+raise - To raise something is to lift it up. We had to work together to raise the last piece. 
+responsible - If a person is responsible, they do the right things. I try to be responsible and save money. 
+sight - A sight is something interesting to see. I saw the pyramids of Egypt. What a sight!
+spot - A spot is a place where something happens. The kitchen is a good spot to eat meals. 
+structure - A structure is a building. They just built a beautiful new structure downtown. 
+whole - Whole means all of something. I ate the whole pie. We don't have any more. 
+coach - A coach is a person who teaches sports. My coach gets very excited during games. 
+control - To control something is to make it do what you want. To control the TV, just push the buttons. 
+description - A description of someone or something says what they are like. I gave a description of the man with the gun and hat to the police. 
+direct - If something is direct, it goes straight between two places. The green path is a direct route to my house. 
+exam - An exam is a test. I did some practice questions for the math exam on the board. 
+example - An example of something is a thing that is typical of it. Cola is an example of a soft drink. 
+limit - A limit is the largest or smallest amount of something that you allow. My mother put a limit on how much I could use the phone. 
+local - If something is local, it is nearby. The local market in my neighborhood sells all the food we need
+magical - Magical describes a quality that makes someone or something special. The fireworks made the night sky look so magical. 
+mail - Mail is letters and other things sent to people. I get a lot of mail because I have friends all over the world. 
+novel - A novel is a book that tells a story. He wrote a great novel about ancient China. 
+outline - An outline is the plan for a story or essay. Before I wrote my essay, I made an outline. 
+poet - A poet is a person who writes poems. William Shakespeare was one of the greatest poets. 
+print - To print something is to put it onto paper. Make sure that you print your name clearly. 
+scene - A scene is one part of a book or movie. A movie is made up of many short pieces or scenes. 
+sheet - A sheet is a thin flat piece of paper. I only needed a single sheet of paper to do my homework. 
+silly - If someone or something is silly, they show a lack of thought. I made a silly mistake of dropping mom's vase. 
+store - A store is a place where you can buy things. I picked up a few things at the grocery store. 
+suffer - To suffer is to feel pain. Her headache made her suffer all day. 
+technology - Technology is new things made by using science. He loves technology such as laptop computers. 
+across - To go across something is to go to the other side of it. He walked across the board to the other side. 
+breathe - To breathe means to let air go in and out of your body. We need strong healthy lungs to help us breathe well. 
+characteristic - A characteristic is something that shows what a person or a thing is like] One characteristic of tigers is their black stripes. 
+consume - To consume something means to eat or drink it. Jack consumed a whole plate of spaghetti. 
+excite - To excite someone means to make them happy and interested. I heard about the school dance on Friday. This excited me. 
+extreme - If something is extreme, it is in a large amount or degree. His workout was so extreme that he was sweating heavily. 
+fear - Fear is the feeling of being afraid. I have a great fear of skateboarding. 
+fortunate - If you are fortunate, you are lucky. I was fortunate to get a seat. 
+happen - If someone happens to do something, they do it by chance. I happened to meet some new friends at school today. 
+length - The length of something is how long it is from one end to the other. The length of the floor is three meters
+mistake - A mistake is something you do wrong. My boss always yells at me when I make a mistake. 
+observe - To observe something is to watch it. Brian observed the sun rising over the mountains. 
+opportunity - An opportunity is a chance to do something. I had an opportunity to take pictures in the jungle. 
+prize - A prize is something of value that is given to the winner. I won a prize for getting the best grade on my science test. 
+race - A race is a contest to see who is the fastest. Paul is a fast runner, so he easily won the race. 
+realize - To realize is to suddenly understand. After I left my house, I realized that I left the light on. 
+respond - To respond is to give an answer to what someone else said. When the teacher asked the question, we all responded. 
+risk - A risk is a chance of something bad happening. I took a risk and climbed the snowy mountain. 
+wonder - Towonder is to ask yourself questions or have a need to know. The young mother wondered if she'd have a boy or a girl. 
+yet - Yet is used to say something has not happened up to now. We can't go out yet, we're still eating. 
+academy - An academy is a special type of school. There are many courses taught at the academy that I go to. 
+ancient - If something is ancient, it is very old. I want to see the ancient buildings in Rome. 
+board - A board is a flat piece of wood. The sign was made of a few wooden boards. 
+century - A century is one hundred years. Our company is celebrating a century of business in London. 
+clue - A clue is a fact or object that helps solve a mystery or crime. The detective found some clues on the sidewalk. 
+concert - A concert is an event where you listen to people play music. ' I enjoyed the concert last night. The band was very good. 
+county - A county is the largest political division of a state in the US. He wanted to represent the citizens of his county. 
+dictionary - A dictionary is a book that tells you what words mean. I use the dictionary to learn new words. 
+exist - To exist is to be real. Do you really think that unicorns ever existed?
+flat - Flat describes something that is level and smooth with no curved parts My parents bought a new flat screen TV over the weekend. 
+gentleman - A gentleman is a nice man. My grandfather is a kind and helpful gentleman. 
+hidden - Hidden means to be not easily noticed or too hard to find. The hidden camera recorded everything in the parking lot
+maybe - Maybe is used to show that something is possible or may be true. If I focus hard enough, maybe I can come up with the right answer. 
+officer - An officer is a leader in the army. The soldiers followed the orders of the officer. 
+original - If something is original, it is the first one of that thing. This is the original painting of the Mona Lisa. 
+pound - To pound something is to hit it many times with a lot of force. He pounded the nail with the hammer. 
+process - A process is the steps to take to do something. Making a cake is a long process. 
+publish - To publish a book is to get it printed and ready to sell. That company publishes daily newspapers. 
+theater - A theater is a building where you watch plays, shows, and movies. We went to the theater to see a play. 
+wealth - Wealth is a large amount of money. One of the most important things to some people is wealth. 
+appreciate - To appreciate something is to understand its good qualities. I can appreciate the lovely scenery. 
+available - If something is available, it means you can get it. There were many seats available in the room. 
+beat - To beat someone means to do better than they do. I managed to beat everyone in the race. 
+bright - If something is bright, it shows a lot of light. The bright light from the explosion hurt my eyes. 
+celebrate - To celebrate is to do something to show that an event is special. We all celebrated when we heard the great news. 
+determine - To determine means to choose or make a decision. He tried to determine which one to eat first. 
+disappear - To disappear means to go away or not be seen. The top of the building is disappearing in the clouds. 
+else - If you talk about something else, you talk about something different. I wanted a bike for my birthday, but I got something else. 
+fair - Fair describes treating someone in a way that is reasonable or right. He sold me his car for a fair price. 
+flow - To flow is to move easily and continuously in one direction. The waterflowed over the rocks and into the lake. 
+forward - If you move forward, you move in the direction in front of you. When he saw his mother, the baby crawled forward to her. 
+hill - A hill is a round area of land. It is higher than the land around it. The sun was rising above the green hills. 
+level - A level is a point on a scale that measures something. Please check the level of the temperature. 
+lone - If someone or something is lone, they are the only one of that kind. A lone man walked along the street. 
+puddle - A puddle is a pool of liquid on the ground. When the ice melted, it formed a puddle. 
+response - A response is the answer to a question. He asked if I was sad. My response was "No."
+season - A season is a time of the year:spring, summer, fall or winter. Fall is a warm season, while winter is very cold. 
+solution - A season is a time of the year:spring, summer, fall or winter. Fall is a warm season, while winter is very cold. 
+waste - Towaste means to carelessly use something all up. Turn off the water so you don't waste it. 
+whether - You use whether when you must choose between two things. I could not decide whether to go left or right. 
+argue - To argue is to angrily speak to someone because you do not agree. We argued about where to go for dinner. 
+communicate - To communicate is to give information by talking, writing, etc. I communicated with Paul about his new ideas. 
+crowd - A crowd is a large group of people. A large crowd had gathered on the street to see the accident. 
+depend - To depend on someone or something is to need them. Children depend on their parents for many things. 
+dish - A dish is a plate. She put a clean white dish on the table. 
+empty - If something is empty, it does not have anything in it. My gas tank was almost empty, so I couldn't drive my car very long. 
+exact - If something is exact, it is just the right amount. Please use the exact amount of sugar for the cake. 
+fresh - If something is fresh, it is new. I just bought these oranges. They are very fresh. 
+gather - To gather is to collect several things usually from different places. Sam gathered some flowers for his mother. 
+indicate - To indicate means to show, point or make something clear. He pointed to his eyes to indicate where he had hurt himself. 
+item - An item is a thing that you buy or sell. I have many items for school in my bag. 
+offer - To offer is to present someone with something. He offered me the keys to his car. 
+price - The price of something is how much it costs. What is the price of this item?
+product - A product is something that is made. My sister has many beautyproducts in her room. 
+property - Property is something that someone owns. The house is now myproperty. 
+purchase - To purchase something is to buy it. I recently purchased a new car. 
+recommend - To recommend something is to say that someone should do it. My doctor recommended that I get some exercise. 
+select - To select something is to choose it. I hope that I selected the right answers on the test. 
+tool - A tool is something that helps you do a task. We used a tool to fix the window. 
+treat - To treat is to act in a certain way toward someone. The cats treated the mouse very nicely. 
+alive - If someone or something is alive, they are not dead. My grandparents are still alive even though they are over 90. 
+bone - A bone is a hard part of the body. I brought home a nice bone for my dog. 
+bother - To bother is to make the effort to do something. No one bothered to wash the dishes today. 
+captain - A captain is the person who leads a ship or airplane. The captain sailed his ship to Australia. 
+conclusion - The conclusion of something is the final part of it. At the conclusion of the race, the spectators cheered for the winner. 
+doubt - Doubt is a feeling of not being sure. I have doubt that the story is true. 
+explore - To explore is to look for new places. He wants to explore the world and see new things. 
+foreign - If something is foreign, it is from a different country. Mexican food is a popular foreign food. 
+glad - If you are glad, you are happy. I am glad you came to my party. 
+however - However means despite or not being influenced by something. She is a great cook. However, she never had professional lessons. 
+injustice - Injustice is a lack of fairness or justice. Putting an innocent person in jail is an act ofinjustice. 
+international - If something is international, it involves more than one country. The United Nations is a powerful international organization. 
+lawyer - A lawyer works with the law and represents people in court. The lawyer left the courthouse after the judge made her decision. 
+mention - To mention something is to talk about it. The doctors mentioned the problems that the patient was having. 
+policy - A policy is a rule. He told us that his policy was to put customers first. 
+social - If something is social, it is about many people in a community. People should come together and fix the world's social problems. 
+speech - A speech is something said to a group of people. She gave a speech to the class. 
+staff - A staff is a group of people working together in a company. My dad has a staffof four people to help him at the office. 
+toward - If you go toward something, you go closer to it. Santa walked toward my house with a special tree. 
+wood - Wood is the thing that trees are made of. I put the pieces of wood in a pile. 
+achieve - To achieve something is to successfully do it after trying hard. I was happy that I could achieve my goal. 
+advise - To advise someone is to tell them what to do. My mother often advises people about their money. 
+already - If something happens already, it happens before a certain time. It is already time for the movie to start. Let's go in. 
+basic - If something is basic, it is very simple or easy. I learned some basic English skills in school today. 
+bit - A bit is a small amount of something. I ate a bit of chocolate before I went to bed. 
+consider - To consider something means to think about it. Pete didn't like his job. He considered getting a new one. 
+destroy - To destroy means to damage something so badly that it cannot be used. The glass was destroyed. 
+entertain - To entertain someone is to do something that they enjoy. The clown entertained the kids at the party. 
+extra - If something is extra, it is more than what is needed. The squirrel had extra nuts for the winter. 
+goal - A goal is something you work toward. Hergoal was to become a doctor. 
+lie - To lie is to say or write something untrue to deceive someone. Whenever Pinocchio lied to his father, his nose grew. 
+meat - Meat is food made of animals. This piece ofmeat I'm eating tastes very good. 
+opinion - An opinion is a thought about a person or a thing. Meg told me her opinion of my story. She said it was not funny. 
+real - If something is real, it actually exists. The handbag has a stamp on it, so it's real. 
+reflect - If something is real, it actually exists. The handbag has a stamp on it, so it's real. 
+regard - To regard someone or something is to think of them in a certain way. The boy regarded the girl as a good friend. 
+serve - To serve someone is to give them food or drinks. He served us our drinks quickly. 
+vegetable - Avegetable is a plant used as food. Carrots are my favorite vegetable. 
+war - A war is a big fight between two groups of people. Many young men died in the war. 
+worth - If something is worth an amount of money, it costs that amount. Our house is worth a lot of money. 
+appear - To appear is to seem. She appeared to be sad. She was crying. 
+base - The base is the bottom of something. The base of the table has three legs. 
+brain - The brain is the organ in your head that lets you think. You must use your brain to solve the problem. 
+career - A career is a job that you do for a large part of your life. He was in the hospitality business for most of his career. 
+clerk - A clerk is a type of worker. Clerks in a store help customers. The clerk added up her bill for the groceries. 
+effort - Effort is hard work or an attempt to do something. He always puts a lot of effort into his studies. 
+enter - To enter a place is to go into it. Two guards greeted me as I entered the front door. 
+excellent - When something is excellent, it is very good. I got an excellent score on my school test. 
+hero - A hero is a brave person who does things to help others. To children, the man in the blue and red costume was a real hero. 
+hurry - To hurry is to do something quickly. I hurried home on my bike. 
+inform - To inform someone is to tell them about something. I called and informed her about my idea. 
+later - Later means after the present, expected, or usual time. She missed the train, so she'll arrive a little later than expected. 
+leave - To leave means to go away from someone or something. He packed his bag and was ready to leave for home. 
+locate - To locate something is to find it. I could not locate my keys in the house. 
+nurse - A nurse is a person who helps sick people in the hospital. A nurse helped me get better. 
+operation - An operation is when a doctor replaces or removes something in the body. The operation on my arm was a success. 
+pain - Pain is the feeling that you have when you are hurt. His head was full of pain. 
+refuse - To refuse something is to say "no" to it. The dog refused to play with the cat. 
+though - Though is used when the second idea makes the first seem surprising. Though he was overweight, he liked to be active. 
+various - If something is various, there are many types of it. She owned shoes of various styles. 
+actual - Actual means that something is real or true. This is the actual sword that the King owned, not a fake one. 
+amaze - To amaze someone is to surprise them very much. The news in the paper amazedJack. 
+charge - A charge is the price to pay for something. The charge for the shirts was $15. 00. 
+comfort - To comfort someone means to make them feel better. I wanted to comfort my friend after I heard the bad news. 
+contact - To contact someone is to speak or write to them. I contacted Sue about my party. 
+customer - A customer is a person who buys something at a store. The customer put a few items in a bag. 
+deliver - To deliver something is to take it from one place to another. The man delivered Chinese food to my house. 
+earn - To earn means to get money for the work you do. He earns his living as a chef in a great restaurant. 
+gate - A gate is a type of door. Gates are usually made of metal or wood. We want to put up a wooden gate around our house. 
+include - To include something means to have it as part of a group. Does this meal include a soft drink?
+manage - To manage something means to control or be in charge of it. I had to manage the meeting myself. 
+mystery - A mystery is something that is difficult to understand or explain. The path on the map was a complete mystery to me. 
+occur - To occur means to happen. When did the thunderstorm occur?
+opposite - If A is the opposite of B, A is completely different from B. The opposite of black is white. 
+plate - A plate is a flat round thing that you put food on. I put my plate down so I could put some food on it. 
+receive - To receive something is to get it. I received a present on my birthday. 
+reward - A reward is something given in exchange for good behavior or work. He was given a reward for his excellent performance. 
+set - To set something is to put it somewhere. Please set the dice down on the table. 
+steal - To steal is to take something that is not yours. The men tried to steal money from the bank. 
+thief - Athief is someone who quietly takes things that do not belong to them. A thief broke into our home and took my mother's jewelry. 
+advance - To advance is to go forward. He advanced up the ladder slowly. 
+athlete - An athlete is a person who plays sports. Some athletes can play many sports very well. 
+average - If something is average, it is at a normal level. I'm not rich or poor, I'm average. 
+behavior - Your behavior is the way you act. Their behavior was good this semester. They didn't cause trouble. 
+behind - Behind means to be at the back of something. The little girl was hiding behind a tree. 
+course - A course is a class in school. I took a P. E. course in school this year. 
+lower - To lower something is to make it go down. The chart shows how his production has lowered over the year. 
+match - To match is to be the same or similar. The two shoes matched. They looked the same. 
+member - A member is a person who is part of a group. Julie is the newest member of our team. 
+mental - If something is mental, it has to do with your mind. I made a mental picture of the room. 
+passenger - A passenger is a person who rides in a car, train, or airplane. One passenger was standing in the subway train. 
+personality - Your personality is what you are like and how you behave. John has a bad personality. 
+poem - A poem is a short kind of writing. William Shakespeare wrote manypoems. 
+pole - A pole is a long thin stick made of wood or metal that supports things. The flag was hanging from the flag pole. 
+remove - To remove something is to take it away. I removed the nail from the board. 
+safety - Safety means to be the condition of being safe and free from danger. For his own safety, he was placed in a car seat. 
+shoot - To shoot is to fire something like a bullet at someone or something. The hunter raised his gun to shoot at the target. 
+sound - To sound means to make a noise. The alarm clock sounded and woke us all up. 
+swim - To swim is to move through water. I love to swim in the ocean. 
+web - A web is a home made by a spider. Mom cleaned the spider webs out of the garage. 
+block - A block is a solid piece of wood, stone or ice. I saw a block of ice on the floor. 
+cheer - To cheer is to give a loud shout of approval or encouragement. The crowd all cheered when the home team won. 
+complex - If something is complex, it has many small parts. It is hard to understand. A jig-saw puzzle can be complex because it has so many pieces. 
+critic - A critic is someone who give their opinions about movies, books, plays The wine critic tasted the wine so he could give his opinion. 
+event - An event is something that happens, especially something important. Finishing high school was a major event in his life. 
+exercise - To exercise is to run or play sports so that you can be healthy. You should exercise every day. 
+fit - If something fits, it is small enough orthe right size to go there. The colorful eggs fit into the box. 
+friendship - Friendship is the relationship between people who are friends. Michael and Lisa have a very strong friendship with each other. 
+guide - A guide is someone who shows you where to go. We followed a guide at the park. 
+lack - If there is a lack of something, there is not enough of it. His only problem is a lack of money. 
+passage - A passage is a long area with walls that goes from one place to another The long passage led us to the other side of the field. 
+perform - To perform is to do something in front of people who watch. He will perform a song for the class. 
+pressure - To perform is to do something in front of people who watch. He will perform a song for the class. 
+probable - If something is probable, it is likely to happen. It is probable that you will get a good grade if you study for the test. 
+public - If something is public, it is meant for everyone to use. I went to the public park to play with my friends. 
+strike - To strike someone or something is to hit them. She struck the other girl in the face. 
+support - To support something is to like it and help it be successful. Everyone at work supports the new plan. 
+task - A task is work that someone has to do. Who has the task of building the brick wall?
+term - A term is a word for something. I often use the term "oops" when I make a mistake. 
+unite - To unite is to get together to do something. If we unite, we can finish our project faster. 
+associate - To associate means to connect something with a person or thing. Most people associate birthday parties with having fun. 
+environment - The environment is the place where people work or live. Keeping our environment clean is important to our health. 
+factory - A factory is a building where things are made or put together. We have only one factory in our town. 
+feature - A feature is an important part of something. The cell phone has many features. 
+instance - An instance is an example of something. I have never experienced an instance of hate. Have you?
+involve - To involve means to be actively taking part in something. The whole family was involved in playing the game. 
+medicine - Medicine is something you take to feel better or treat an illness. The doctor gave me medicine for my cold. 
+mix - A mix is different things put together. The green mix we made in science class spilled onto the table. 
+organize - To organize is to plan or get ready for an event. Make a list to help you organize the things you need. 
+period - A period is an amount of time when something happens. In one period in Europe, there were many knights. 
+populate - If people populate an area, they live there. Billions of people populate the Earth. 
+produce - To produce something is to make or grow it. This tree produces apples every year. 
+range - A range is a number or a set of similar things. I saw a range of cars to choose from. 
+recognize - To recognize something is to know it because you have seen it before. I recognized an old friend from many years ago. 
+regular - If something is regular, it happens often and in equal amounts of time. Our regular lunch time is around noon. 
+sign - A sign is a notice giving information, directions, a warning, etc. The sign indicated that today would be a bad day. 
+tip - A tip is a pointed end of something. The tip of his pen was very sharp. 
+tradition - Atradition is something people have been doing for a long time. Marriage is a tradition all over the world. 
+trash - Trash is waste material or unwanted or worthless things. Please take out the trash, it smells bad. 
+wide - If something is wide, it is large from side to side. The door was as wide as my arms. 
+advice - Advice is an opinion about what to do. I don't know how to study for my exams. Can you give me some advicel
+along - Along means to move from one part of a road, river, etc. to another. Walk along this tunnel for ten minutes, and you'll see a door on the left. 
+attention - Attention is the notice, thought, or consideration of someone. His work got the attention of two of his co-workers. 
+attract - To attract means to make a person or thing come closer or be intereste The magnet attracted the metal. 
+climb - To climb means to use your hands and feet to go up on something. The girls climbed to the top of the mountain. 
+drop - To drop is to fall or allow something to fall. A small amount of water dropped from the bottle. 
+final - If something is final, it is the last part. In the final part of the film, the man and the woman got married. 
+further - Further is used to say something is from a distance or time. The escalator is further along than I thought. 
+imply - To imply something is to suggest it without saying it. The man implied that he wanted the job, but he didn't say so. 
+maintain - To maintain means to make something stay the same. The balls maintain constant movement. 
+neither - You use neither to connect two negative statements. Neither the pass on the left nor the pass on the right will lead us home. 
+otherwise - Otherwise means different or in another way. It's good to stay active, otherwise, you'll gain weight. 
+physical - If something is physical, it is related to your body and not your mind. Biking is good for yourphysical health. 
+prove - To prove something is to show that it is true. My teacherproved the answer on the board. 
+react - To react is to act in a certain way because of something that happened. James reacted badly to the news. 
+ride - To ride something is to travel on it. You can ride an animal, a bike, etc. I will ride a roller-coaster for the first time today. 
+situated - If something is situated somewhere, it is in that place. The white board is situated between the two men. 
+society - Society is people and the way that they live. Society expects people to be good and honest. 
+standard - A standard is what people consider normal or good. This older model TV is below our store's standards. 
+suggest - To suggest something means to give an idea or plan about it. He suggested that we go to see his boss. 
+actually - Actually means in fact or really. My dad looks a little mean, butactually he's very kind. 
+bite - Bite is the act of using your teeth to cut and tear into something. The boy took a big bite out of his hamburger. 
+coast - The coast is the land by an ocean. I stayed on the southern coast of Australia. 
+deal - A deal is an agreement that you have with another person. I made a deal with the other company to give us some money. 
+desert - The desert is an area of land without many plants or water. Not many plants grow in the desert. 
+earthquake - An earthquake is a shaking movement of the ground. The building shook during the earthquake. 
+effective - If something is effective, it works well. Swimming is an effective way to stay healthy. 
+examine - To examine something is to look at it carefully. The doctor examined my eyes today. 
+false - If something is false, it is not correct. If you think the answer is false, press the red button. 
+gift - A gift is something you give someone. Dave received many gifts for Christmas. 
+hunger - Hunger is the feeling that you get when you need to eat. After playing all day long, he was filled with hunger. 
+imagine - To imagine something is to think of it in your mind. Sally imagined herself winning lots of money. 
+journey - A journey is a long trip. I went on a journey across the country with my parents. 
+puzzle - A puzzle is something that is hard to understand. The question was a puzzle to him. 
+quite - Quite is used to say that something is complete or very much. I think typing on a keyboard is quite easy. 
+rather - Rather is used when you want to do one thing but not the other. I would rather have the red one than the blue one. 
+specific - If something is specific, it is precise or exact. Please choose a specific place on the map. 
+tour - A tour is a short trip in which you see many sights. I took a tour of Asia and Europe. 
+trip - A trip is a journey to a certain place. Ken took a trip to the city yesterday. 
+value - If something has value, it is worth a lot of money. Matthew found a treasure of very high value. 
+band - A band is a group of people who play music. My brother is in a rock band. 
+barely - Barely means by the smallest amount, almost not. I barely had enough money to pay for my bus ticket. 
+boring - If something is boring, it is not fun. I think the Internet is boring. 
+cancel - To cancel means to decide that an event or a request will not happen. She cancelled the rest of her plans because of the rain. 
+driveway - A driveway is a short private road that leads to a person's home. The long driveway led us to their new house. 
+garbage - Garbage is waste material like unwanted or spoiled food, bottles, paper, etc. The boy cleaned up the garbage around his house. 
+instrument - An instrument is something designed to do a certain task like music. My favorite musical instrument is the piano. 
+list - A list is a record of information printed with an item on each line. My mom makes a list of groceries to buy. 
+magic - Magic is the power to do impossible things. The magician used magic to pull a rabbit out of his hat. 
+message - A message is a set of words that you send to someone. I left a message for you in the envelope. 
+notice - To notice something is to see it for the first time. Did you notice the view?
+own - To own something means to have it. That thing belongs to you. My grandfather owns that house. 
+predict - To predict something is to say that it will happen. She predicted that I would get married next year. 
+professor - A professor is a person who teaches in college. Mike's science professor knows a lot about physics. 
+rush - To rush is to go somewhere or do something very quickly. Nancy rushed to finish her homework. 
+schedule - A schedule is a plan that tells you when to do things. What is your class schedule for today?
+share - To share something is to give some of it to another person. Jimmy shared his apple with me. 
+stage - A stage is a place where actors or musicians act or sing. A large screen was on the stage. 
+storm - A storm is very bad weather. There is a lot of rain or snow. Did that storm wake you up last night?
+within - You use within to say that something is inside another thing. Within the box, there was a pizza. 
+advertise - To advertise is to tell people about something on TV, radio, etc. They used a rabbit to help them advertise their product. 
+assign - To assign something to someone is to tell them to do it. I assigned the worker an important task. 
+audience - An audience is a group of people who watch something together. There was a large audience at the game. 
+breakfast - Breakfast is the first meal of the day. I eat breakfast at 8:00 every morning. 
+competition - A competition is a contest to see who is the best at something. He won the running competition over the weekend. 
+cool - If the weather is cool, it is a little bit cold. The weather is cool in the fall. 
+gain - Ifyou gain something, you get more of it. I gained some weight over the summer. 
+importance - Importance means the quality or condition of being needed or valued. VIPs are people of great importance. 
+knowledge - Knowledge is information that you have about something. A music teacher should have good knowledge of music. 
+major - If something is major, it is big or important. I have a major problem. My boss wants me to redo my project!
+mean - Mean describes someone who is unkind or cruel. My co-worker is a very mean person. He gets angry very quickly. 
+prefer - Ifyou prefer something, you want it more than something else. I prefer to take the path that will lead me to a bright future. 
+president - A president is the leader of a country. The president of our country made an important announcement. 
+progress - Progress is the act of getting closer to doing or finishing something. Our company made financial progress this year. 
+respect - Respect is a good opinion of someone because they are good. I have great respect for firemen. 
+rich - Ifyou are rich, you have a lot of money. He's rich. He can buy anything he wants. 
+skill - A skill is the knowledge and ability that allows you to do something well. A snowboarder must have the right skills to do well. 
+somehow - Somehow means in a way or by some means which is not known. He somehow had to find a way to reach the life preserver. 
+strength - Strength is the physical power that you have. Exercising will increase your strength and give you more power. 
+vote - Tovote is to officially choose between two or more things. I voted for Billy to be our class president. 
+above - If something is above, it is at a higher level than something else. He straightened the sign that was above the crowd. 
+ahead - If something is ahead of something else, it is in front of it. The blue car drove on ahead of us. 
+amount - An amount is how much there is of something. Can I use my card to pay for the entire amount?
+belief - A belief is a strong feeling that something is correct or true. A preacher or priest should have a strong belief in God. 
+center - The center of something is the middle of it. The center of a dart board is the most important spot. 
+common - If something is common, it happens often or there is much of it. It is common for snow to fall in the winter. 
+cost - To cost is to require expenditure or payment. These designer shoes cost more than the regular ones. 
+demonstrate - To demonstrate something is to show how it is done. She demonstrated her plan to her co-workers. 
+different - Different describes someone or something that is not the same as others. Each of my sisters has a different hair style from one another. 
+evidence - Evidence is a fact or thing that you use to prove something. He used the pictures as evidence that UFOs are real. 
+honesty - Honesty means the quality of being truthful or honest. A courtroom should be a place of honesty. 
+idiom - An idiom is a phrase with a meaning different from its words. The idiom "when pigs fly" means that something will never happen. 
+independent - If something is independent, it is not controlled by something else. She chose to live an independent life in the country. 
+inside - Inside means the inner part, space or side of something. The inside of the box was empty. 
+master - A master is a person who is very good at something. My brother is a master of taekwondo. 
+memory - A memory is something you remember. The memory of my first time in the city will always be the best. 
+proper - If something is proper, it is right. It is not proper to throw your garbage on the road. 
+scan - To scan something is to look at it very carefully. You must scan each person closely. 
+section - A section is a part of something larger. The green section of the graph is the most important part. 
+surface - The surface of something is the top part or outside of it. The surface of the moon is very rough. 
+~~End Part 1~~
