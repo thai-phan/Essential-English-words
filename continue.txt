@@ -11,3 +11,7 @@ experimental -
 overwhel -
 handy -
 mouthful -
+opaque - 
+mutation - 
+asynchronous - 
+arbitrarily - 
