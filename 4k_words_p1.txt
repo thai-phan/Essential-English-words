@@ -598,4 +598,3 @@ proper - If something is proper, it is right. It is not proper to throw your gar
 scan - To scan something is to look at it very carefully. You must scan each person closely. 
 section - A section is a part of something larger. The green section of the graph is the most important part. 
 surface - The surface of something is the top part or outside of it. The surface of the moon is very rough. 
-~~End Part 1~~

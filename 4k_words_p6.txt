@@ -598,4 +598,3 @@ peck - A pebble is a small, round stone. We threw pebbles into the lake to make 
 pebble - When a bird pecks, it bites or hits something with its beak. The birds pecked at the seeds on the ground. 
 reservoir - A reservoir is a place for storing water for a town to use. If it doesn’t rain soon, the reservoir is going to dry up completely. 
 streak - A streak is a long, thin mark that is easy to see. Her hair was brown except for a streak which she dyed blonde. 
-~~End Part 6~~
