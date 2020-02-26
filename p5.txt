@@ -258,47 +258,47 @@ ornament-sự trang hoàng; sự trang trí-An ornament is an attractive object 
 pedestrian-người đi bộ, khách bộ hành-A pedestrian is a person who is walking on a street. Cars should be careful when pedestrians are walking around.-
 sanctuary-khu bảo tồn động vật, nơi linh thiêng-A sanctuary is a place where people in danger can go to be safe. The church was made into a sanctuary for homeless people in the winter.-
 spectator-khán giả-A spectator is someone who watches something, especially a sports event. There were thousands of spectators at the big game.-
-asset--An asset is a skill or quality that is useful or valuable. The coach realized the boy's speed was an asset to the team.-
-aspect--An aspect is one part or feature of something. I thought about the different aspects of owning two dogs.-
-Braille--Braille is a system of raised patterns on paper that allows the blind to read.The boy enjoyed reading his favorite books written in Braille.-
-bud--A bud is a part of a plant that turns into a flower or a leaf.Two weeks after planting the seed, a small bud appeared.-
-coordinate--To coordinate things is to make different parts work together. Each skating team had to coordinate their movements for the show.-
-disprove--To disprove something means to show that it is not true. The scientist disproved the theory that the sun moved around the Earth.-
-humanitarian--If something is humanitarian, it is connected to helping people's lives. After the flood, several humanitarian organizations offered help.-
-hypothesis--A hypothesis is an idea for something that has not been proved yet.The teacher did an experiment to prove whether his hypothesis was right.-
-imprint--An imprint is an effect or lesson from an experience that is hard to forget. The experience ofwarleftan imprint on his mind that troubled him.-
-informative--When something is informative, it provides a lot of information. The travel guide had a lot of informative facts about the region.-
-optic--When something is optic, it relates to the eyes or light. Her blindness was caused by a problem with her optic nerve.-
-premise--A premise is an idea on which something is based.The premise of the movie that Bobbi and I watched was unrealistic.-
-rack--A rack is an object with shelves that holds things. He stored his tools on a rack.-
-Renaissance--The Renaissance was a period between the 14th and 17th centuries. Leonardo Da Vinci was a popular artist of the Renaissance.-
-revere--To revere something is to admire it greatly. The students revere their teacher, who has taught them a lot.-
-simultaneous--When something is simultaneous, it occurs at the same time as something else.The movement of the gears inside the watch was simultaneous.-
-skeptic--A skeptic is a person who does not believe something. The scientist showed the skeptic that dinosaurs did exist by providing evidence.-
-spatial--When something is spatial, it relates to the position and size of things. He was asked where the books were located to test his spatial ability.-
-specify--To specify is to describe something clearly. The poster didn't specify where the concert was taking place.-
-wax--Wax is a substance that is slightly shiny and melts when heated.The candles are made of wax.-
-accessory--An accessory is a thing that is added to another thing to make it look better. The store sold colorful accessories like bags, sunglasses, and makeup.-
-acquisition--An acquisition is something that a person buys or gets in some way.Marty was happy with his new acquisition: a very fast bicycle.-
-adequate--When something is adequate, it is good enough for something else.Without adequate notice of the road block, they will have to turn around.-
-cardboard--Cardboard is a material made out of stiff paper. It is often used to make boxes. We packed our things into cardboard boxes and moved to our new home.-
-dilemma--A dilemma is a difficult situation in which a choice has to be made. Choosing either the tastier or healthier drink proved to be quite a dilemma.-
-elaborate--When something is elaborate, it contains a lot of details. She gave the teacher an elaborate explanation of her project.-
-facilitate--To facilitate something is to make it easier. To facilitate the meeting, Melissa used a simple computer program.-
-fleet--A fleet is a group of ships. The fleet of ships spent a few days at the dock.-
-grid--A grid is a pattern of squares with numbers and letters to find places on a map.We located our town using the grid.-
-import--To import means to bring in a product from another country. Foods that have been imported are usually more expensive.-
-infer--To infer something is to decide it is true based on other information one has. By the position of the sun in the sky, she inferred that it was noon.-
-inflate--To inflate something means to fill it up with air.I helped him inflate the balloons.-
-innate--When something is innate, it is something that one is born with, it is not learned. He had the innate desire to please his teachers.-
-marble--Marble is a type of rock that feels cold and is smooth when cut. The large house had floors made of marble.-
-mast--A mast is a long pole on a ship that holds the sail. The mast held both sails of the ship upright.-
-nausea--Nausea is the feeling of being sick to your stomach. The doctor said the medicine would help get rid of her nausea.-
-naval--When something is naval, it relates to a country's navy or military ships. The country sent all of its naval forces to protect them.-
-pouch--A pouch is a small, flexible bag that is usually made of cloth. I keep my money in a small pouch.-
-saturated--If something is saturated, it is completely wet. Leigh's hair became saturated in the rain storm.-
-updated--An update is an act of making something more modern. I'm doing an update on my personal phone directory.-
-addict--An addict is a person who cannot stop doing or having something. She was a coffee addict. She had more than three cups each day.-
+asset-phẩm chất có giá trị, tài năng có giá trị; vốn quý-An asset is a skill or quality that is useful or valuable. The coach realized the boy's speed was an asset to the team.-
+aspect-mặt, phương diện-An aspect is one part or feature of something. I thought about the different aspects of owning two dogs.-
+Braille-hệ thống chữ Braille (chữ nổi cho người mù)-Braille is a system of raised patterns on paper that allows the blind to read.The boy enjoyed reading his favorite books written in Braille.-
+bud-chồi, nụ, lộc-A bud is a part of a plant that turns into a flower or a leaf.Two weeks after planting the seed, a small bud appeared.-
+coordinate-điều phối-To coordinate things is to make different parts work together. Each skating team had to coordinate their movements for the show.-
+disprove-bác bỏ, bác-To disprove something means to show that it is not true. The scientist disproved the theory that the sun moved around the Earth.-
+humanitarian-[mang tính] nhân đạo-If something is humanitarian, it is connected to helping people's lives. After the flood, several humanitarian organizations offered help.-
+hypothesis-giả thuyết-A hypothesis is an idea for something that has not been proved yet.The teacher did an experiment to prove whether his hypothesis was right.-
+imprint-in vết, in dấu ấn vào-An imprint is an effect or lesson from an experience that is hard to forget. The experience ofwarleftan imprint on his mind that troubled him.-
+informative-cung cấp nhiều thông tin bổ ích-When something is informative, it provides a lot of information. The travel guide had a lot of informative facts about the region.-
+optic-[thuộc] mắt;[thuộc] thị giác-When something is optic, it relates to the eyes or light. Her blindness was caused by a problem with her optic nerve.-
+premise-giả thuyết-A premise is an idea on which something is based.The premise of the movie that Bobbi and I watched was unrealistic.-
+rack-giá, giàn (thường trong từ ghép)-A rack is an object with shelves that holds things. He stored his tools on a rack.-
+Renaissance-sự phục hưng (văn học, nghệ thuật…)-The Renaissance was a period between the 14th and 17th centuries. Leonardo Da Vinci was a popular artist of the Renaissance.-
+revere-tôn sùng, sùng kính-To revere something is to admire it greatly. The students revere their teacher, who has taught them a lot.-
+simultaneous-đồng thời, cùng lúc-When something is simultaneous, it occurs at the same time as something else.The movement of the gears inside the watch was simultaneous.-
+skeptic-người hoài nghi-A skeptic is a person who does not believe something. The scientist showed the skeptic that dinosaurs did exist by providing evidence.-
+spatial-[thuộc] không gian-When something is spatial, it relates to the position and size of things. He was asked where the books were located to test his spatial ability.-
+specify-nêu rõ, chỉ rõ, định rõ-To specify is to describe something clearly. The poster didn't specify where the concert was taking place.-
+wax-sáp-Wax is a substance that is slightly shiny and melts when heated.The candles are made of wax.-
+accessory-đồ phụ tùng-An accessory is a thing that is added to another thing to make it look better. The store sold colorful accessories like bags, sunglasses, and makeup.-
+acquisition-sự đạt được, sự thu được-An acquisition is something that a person buys or gets in some way.Marty was happy with his new acquisition: a very fast bicycle.-
+adequate-đủ, đầy đủ-When something is adequate, it is good enough for something else.Without adequate notice of the road block, they will have to turn around.-
+cardboard-bìa cứng, các-tông-Cardboard is a material made out of stiff paper. It is often used to make boxes. We packed our things into cardboard boxes and moved to our new home.-
+dilemma-thế lưỡng nan, thế khó xử-A dilemma is a difficult situation in which a choice has to be made. Choosing either the tastier or healthier drink proved to be quite a dilemma.-
+elaborate-tỉ mỉ, công phu; chi tiết; trau chuốt-When something is elaborate, it contains a lot of details. She gave the teacher an elaborate explanation of her project.-
+facilitate-làm cho dễ dàng, tạo điều kiện dễ dàng-To facilitate something is to make it easier. To facilitate the meeting, Melissa used a simple computer program.-
+fleet-hạm đội-A fleet is a group of ships. The fleet of ships spent a few days at the dock.-
+grid-lưới sắt-A grid is a pattern of squares with numbers and letters to find places on a map.We located our town using the grid.-
+import-có tầm quan trọng, hệ trọng, nhập khẩu-To import means to bring in a product from another country. Foods that have been imported are usually more expensive.-
+infer-suy diễn, suy ra-To infer something is to decide it is true based on other information one has. By the position of the sun in the sky, she inferred that it was noon.-
+inflate-thổi phồng, làm tự mãn-To inflate something means to fill it up with air.I helped him inflate the balloons.-
+innate-bẩm sinh-When something is innate, it is something that one is born with, it is not learned. He had the innate desire to please his teachers.-
+marble-đá cẩm thạch-Marble is a type of rock that feels cold and is smooth when cut. The large house had floors made of marble.-
+mast-cột buồm-A mast is a long pole on a ship that holds the sail. The mast held both sails of the ship upright.-
+nausea-sự buồn nôn-Nausea is the feeling of being sick to your stomach. The doctor said the medicine would help get rid of her nausea.-
+naval-[thuộc] hải quân-When something is naval, it relates to a country's navy or military ships. The country sent all of its naval forces to protect them.-
+pouch-túi-A pouch is a small, flexible bag that is usually made of cloth. I keep my money in a small pouch.-
+saturated-(thường vị ngữ)ướt đẫm, ướt sũng-If something is saturated, it is completely wet. Leigh's hair became saturated in the rain storm.-
+updated-cập nhật, hiện đại hóa-An update is an act of making something more modern. I'm doing an update on my personal phone directory.-
+addict-người nghiện-An addict is a person who cannot stop doing or having something. She was a coffee addict. She had more than three cups each day.-
 archeological--When something is archeological, it relates to archeology. They found archeological evidence that proved an ancient species of man.-
 archeology--Archeology is the study of ancient people through their artifacts. He studied archeology to learn more about ancient Egyptian culture.-
 brainstorm--To brainstorm is to have a lot of ideas about a certain topic. The students met after school to brainstorm ideas for their assignment.-
